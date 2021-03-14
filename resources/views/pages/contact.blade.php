@@ -12,7 +12,7 @@
       <input type="password" class="form-control" id="exampleInputEmail1">
     </div>
     <div class="form-group">
-        <label for="exampleFormControlTextarea1">Example textarea</label>
+        <label for="exampleFormControlTextarea1">Message</label>
         <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
     </div>
     <button type="submit" class="btn btn-primary" style="text-align: right;">Send Message</button>
